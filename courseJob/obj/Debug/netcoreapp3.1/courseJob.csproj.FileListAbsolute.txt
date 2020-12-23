@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Файлы\ООП Бредихин\courseJob\bin\Debug\netcoreapp3.1\courseJob.exe
+C:\Users\Lenovo\Desktop\Файлы\ООП Бредихин\courseJob\bin\Debug\netcoreapp3.1\courseJob.deps.json
+C:\Users\Lenovo\Desktop\Файлы\ООП Бредихин\courseJob\bin\Debug\netcoreapp3.1\courseJob.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Файлы\ООП Бредихин\courseJob\bin\Debug\netcoreapp3.1\courseJob.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Файлы\ООП Бредихин\courseJob\bin\Debug\netcoreapp3.1\courseJob.dll
+C:\Users\Lenovo\Desktop\Файлы\ООП Бредихин\courseJob\bin\Debug\netcoreapp3.1\courseJob.pdb
+C:\Users\Lenovo\Desktop\Файлы\ООП Бредихин\courseJob\obj\Debug\netcoreapp3.1\courseJob.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Файлы\ООП Бредихин\courseJob\obj\Debug\netcoreapp3.1\courseJob.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Файлы\ООП Бредихин\courseJob\obj\Debug\netcoreapp3.1\courseJob.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Файлы\ООП Бредихин\courseJob\obj\Debug\netcoreapp3.1\courseJob.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Файлы\ООП Бредихин\courseJob\obj\Debug\netcoreapp3.1\courseJob.dll
+C:\Users\Lenovo\Desktop\Файлы\ООП Бредихин\courseJob\obj\Debug\netcoreapp3.1\courseJob.pdb
+C:\Users\Lenovo\Desktop\Файлы\ООП Бредихин\courseJob\obj\Debug\netcoreapp3.1\courseJob.genruntimeconfig.cache
